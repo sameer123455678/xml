@@ -1,0 +1,10 @@
+<student>
+<name>sameer</name>
+<dob>24 april 2004</dob>
+<class>11</class>
+<rollnumber>15</rollnumber>
+</student>
+<book>
+<name>good xml</name>
+<cost>205$</cost>
+</book>

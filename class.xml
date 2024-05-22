@@ -1,0 +1,18 @@
+<class
+xmlns="htt://www.myschool.com/"
+xmlns:c9="htt://www.myschool.com-9/"
+xmlns:c10="htt://www.myschool.com-10/">
+<c9:student>
+        <c9:name>ali</c9:name>
+        <c9:age>20</c9:age>
+        <c9:class>14</c9:class>
+        <fees>3500</fees>
+</c9:student>
+
+<c10:student>
+    <c10:name>ali</c10:name>
+    <c10:age>16</c10:age>
+    <c10:class>5</c10:class>
+    <fees>3500</fees>
+    </c10:student>
+</class>
